@@ -8,6 +8,8 @@ A React component for displaying a gauge.
 npm install react-gauge
 ```
 
+![Gauge](./assets/img.png)
+
 ## Usage
 
 ```tsx
@@ -50,5 +52,4 @@ export default function App() {
 }
 ```
 
-![Gauge](./assets/img.png)
 
