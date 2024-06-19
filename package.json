@@ -1,6 +1,6 @@
 {
   "name": "react-mygauge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React component for gauge charts.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
