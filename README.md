@@ -5,7 +5,7 @@ A React component for displaying a gauge.
 ## Installation
 
 ```bash
-npm install react-gauge
+npm install react-mygauge
 ```
 
 ![Gauge](./assets/img.png)
