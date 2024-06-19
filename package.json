@@ -7,7 +7,16 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timothycuenat/react-mygauge.git"
+  },
+  "keywords": [
+    "react",
+    "gauge",
+    "chart",
+    "component"
+  ],
   "author": "Timothy Cuenat",
   "license": "MIT",
   "dependencies": {
