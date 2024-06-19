@@ -61,7 +61,7 @@ const getDialAlignment = (align: DialAlignment): number => {
     return alignments[align];
 };
 
-export default function Gauge({
+export default function MyGauge({
                                   value,
                                   title,
                                   unit = "",
