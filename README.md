@@ -1,23 +1,22 @@
 # React Gauge
 
-A React component for displaying a gauge.
+Responsive react component gauge chart with SVG.
 
 ## Installation
 
 ```bash
 npm install react-mygauge
 ```
-
-![Gauge](./assets/img.png)
+![gauge.gif](./assets/gauge.gif)
 
 ## Usage
 
 ```tsx
 import React from 'react';
-import Gauge from 'react-gauge';
+import MyGauge from 'react-mygauge';
 
 export default function App() {
-    return <Gauge
+    return <MyGauge
         min={0}
         max={100}
         value={75.18956}
@@ -51,5 +50,7 @@ export default function App() {
     />
 }
 ```
+
+![Gauge](./assets/img.png)
 
 

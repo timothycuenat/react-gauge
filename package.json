@@ -1,7 +1,7 @@
 {
   "name": "react-mygauge",
-  "version": "1.0.3",
-  "description": "React component for gauge charts.",
+  "version": "1.0.4",
+  "description": "Responsive react component gauge chart with SVG.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -15,7 +15,10 @@
     "react",
     "gauge",
     "chart",
-    "component"
+    "component",
+    "svg",
+    "svgchart",
+    "svggauge"
   ],
   "author": "Timothy Cuenat",
   "license": "MIT",
